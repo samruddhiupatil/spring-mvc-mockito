@@ -1,7 +1,7 @@
 RESTful Services with SpringMVC (tested with Mockito)
 =====================================================
 
-Sample project that covers the following concepts:
+project that covers the following concepts:
 
 * Spring-MVC
 * REST responses on Spring Controllers
@@ -10,7 +10,7 @@ Sample project that covers the following concepts:
 REST Endpoints
 ==============
 
-We try to follow well-accepted REST principles with these examples. All operations performed on this user entity are through the same
+I tried to follow well-accepted REST principles with these examples. All operations performed on this user entity are through the same
 endpoint and use the request method as a determiner for the service to call...
 
 * Retrieve user with ID=3: <code>GET http://localhost:8080/user/3</code>
